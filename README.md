@@ -10,8 +10,7 @@ Action Plan:
 •	Study the statistics of patterns which affect the clients on regular basis. 
 •	Proactively take measures to report problems and identify patterns
 •	Take action by offering better services to retain the customer. 
-
-To start with, the data set we used was from Kaggle and we used a bank churners csv file to utilize the data and collaborate for the action plan. 
+The data set we used was from BOA, and we used a bank churners CSV file to utilize the data and collaborate for the action plan. 
 Secondly, we looked at the data and found different categories of files to study and differentiate for the customer recollection. 
 We found out a need for 20 different categories and based on that we used different models such as SVM, KNN, and logistic regression, 
 random forest to find out the best performing model and have a decision-making process based on results.
