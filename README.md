@@ -24,4 +24,3 @@ Through which we utilized random forest to predict the best possibility of featu
 	For conclusion, we concluded that the female customers were the most reliable one who stayed long-terms and giving them credit
   boosted the highest of the revenue. 
   Furthermore, we also find out the people who were college drop out where most of the people to churn out from the credit card company. Giving them credit would be the number one consequence for not having the profit on the sheets. Lastly, college student were the ones who did not make payments on time and lead to long-term high interests rates which gave more revenue to the company. 
-![image](https://user-images.githubusercontent.com/95389785/228719038-5cbdaf57-f827-4cd8-8550-5326edb8242b.png)
